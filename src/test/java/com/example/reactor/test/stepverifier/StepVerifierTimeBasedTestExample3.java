@@ -1,6 +1,5 @@
 package com.example.reactor.test.stepverifier;
 
-import com.example.reactor.test.TimeBasedExample;
 import org.junit.jupiter.api.Test;
 import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;

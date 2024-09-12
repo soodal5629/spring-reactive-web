@@ -1,4 +1,4 @@
-package com.example.reactor.test;
+package com.example.reactor.test.stepverifier;
 
 import reactor.core.publisher.Flux;
 import reactor.util.function.Tuple2;
